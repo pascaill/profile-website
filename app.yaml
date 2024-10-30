@@ -1,5 +1,4 @@
 runtime: python38
-threadsafe: true
 handlers:
 - url: /.*
   static_files: index.html
